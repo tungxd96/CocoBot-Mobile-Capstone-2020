@@ -51,15 +51,15 @@ CocoBot is an empathetic chatbot application tending to solve caregiver's mental
 # Architecture Diagram
 ## Fullstack Architecture Diagram
 In order to perform CRUD operations from mobile client, it uses [Firebase API](https://docs.expo.io/guides/using-firebase) in [Expo](https://expo.io) to first request HTTP calls to server. From server, it then sends a TCP/IP request to Firebase Authentication and Cloud Firestore for authentication and database communication to the client. <br/>
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/diagram/architecture-diagram.png">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/diagram/architecture-diagram.png">
 
 ## Project Workflow
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/diagram/workflow.png">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/diagram/workflow.png">
 
 ## Folder Hierarchy
 This folder hierarchy presents all the files that I implemented for this capstone project <br/>
 If folder is at the end of its path, that means I implemented all the files inside that folder. If not, my working files will be specified<br/>
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/diagram/folder-hierarchy.png">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/diagram/folder-hierarchy.png">
 
 # Examples
 ## Onboarding Questionnaire
@@ -70,8 +70,8 @@ Introduces to caregivers that we're about to ask caregivers for their informatio
 1. Simply press one of the 2 buttons at the footer of each page to move to the next page
 
 <p float="left">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/1.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/2.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/1.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/2.png" height="450" hspace="20">
 </p>
 
 ### Survey Input
@@ -84,11 +84,11 @@ Asks caregivers to input their name, age, household, and children for better ass
 4. Press `Explore` to start exploring the app. This will prompt you to our home screen
 
 <p float="left">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/3.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/4.png" height="450" hspace="20">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/5.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/6.png" height="450" hspace="20">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/questionnaire/7.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/3.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/5.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/6.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/7.png" height="450">
 </p>
 
 ## Authentication
@@ -105,7 +105,7 @@ Allows caregivers to login into their own account or sign in with Apple
   1. Press `Sign in with Apple` button
   2. Follow Apple sign-in instructions
   
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/authentication/login.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/authentication/login.png" height="450">
 
 ### Register
 #### Purpose
@@ -116,7 +116,7 @@ Allows caregivers to create a new account with email and password
 3. Enter your password
 4. Press `Sign Up`
 
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/authentication/register.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/authentication/register.png" height="450">
 
 ### Forgot Your Password
 #### Purpose
@@ -125,11 +125,11 @@ Allows caregivers to reset their password with Firebase
 1. Enter your email to send a reset link to your email
 2. Press `Submit`, then check your email and follow the instructions in your email to reset your password
 
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/authentication/forgot.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/authentication/forgot.png" height="450">
 
 ## Settings
 
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/settings/1.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/1.png" height="450">
 
 ### Personal Information
 #### Purpose
@@ -137,7 +137,7 @@ Allows caregivers to view and edit their personal information
 #### Steps to Generate Outputs
 1. Modify any inputs (first name, last name, gender, date of birth, and email) you want to edit
 2. Press `Save` to save any changes
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/settings/2.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/2.png" height="450">
 
 ### Child Information
 #### Purpose
@@ -147,8 +147,8 @@ Allows caregivers to view and edit their children information
 2. Modify any inputs (first name, last name, gender, date of birth, and chronic condition) you want to edit
 3. Press `Save` to save any changes
 <p float="left">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/settings/3.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/settings/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/3.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/4.png" height="450" hspace="20">
 </p>
 
 ### Notification
@@ -156,28 +156,28 @@ Allows caregivers to view and edit their children information
 Allows caregivers to customize their notification settings
 #### Steps to Generate Outputs
 1. Press on any switches corresponding to email, daily tasks, messages, and push notifications to toggle on/off a specific notifcation
-<img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/settings/5.png" height="450">
+<img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/5.png" height="450">
 
 ## Progress
 ### Progress Stats
 #### Purpose
 Provides progress statistics including achievements, ratings in line chart, and solution completion rates in horizontal bar chart
 <p float="left">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/progress/1.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/progress/2.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/1.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/2.png" height="450" hspace="20">
 </p>
 
 ### Progress Details
 #### Purpose
 Provides caregivers with progress details including calendar to track their activity period, focus overview, and PST steps
 <p float="left">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/progress/3.png" height="450">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/progress/4.png" height="450" hspace="20">
-  <img src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/progress/5.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/3.png" height="450">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/5.png" height="450">
 </p>
 
 # Demos
 Click on the below thumbnail for video<br/>
 <a href="https://youtu.be/a5MP264QC3o">
-  <img alt="CocoBot Final Demo" src="https://github.com/DrDongSi/CocoBot-Mobile/blob/main/images-readme/thumbnail/thumbnail.png" width="400">
+  <img alt="CocoBot Final Demo" src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/thumbnail/thumbnail.png" width="400">
 </a>
