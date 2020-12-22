@@ -71,7 +71,7 @@ Introduces to caregivers that we're about to ask caregivers for their informatio
 
 <p float="left">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/1.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/2.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/2.png" height="450" hspace="10">
 </p>
 
 ### Survey Input
@@ -85,9 +85,9 @@ Asks caregivers to input their name, age, household, and children for better ass
 
 <p float="left">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/3.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/4.png" height="450" hspace="10">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/5.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/6.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/6.png" height="450" hspace="10">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/questionnaire/7.png" height="450">
 </p>
 
@@ -148,7 +148,7 @@ Allows caregivers to view and edit their children information
 3. Press `Save` to save any changes
 <p float="left">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/3.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/settings/4.png" height="450" hspace="10">
 </p>
 
 ### Notification
@@ -164,7 +164,7 @@ Allows caregivers to customize their notification settings
 Provides progress statistics including achievements, ratings in line chart, and solution completion rates in horizontal bar chart
 <p float="left">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/1.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/2.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/2.png" height="450" hspace="10">
 </p>
 
 ### Progress Details
@@ -172,7 +172,7 @@ Provides progress statistics including achievements, ratings in line chart, and 
 Provides caregivers with progress details including calendar to track their activity period, focus overview, and PST steps
 <p float="left">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/3.png" height="450">
-  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/4.png" height="450" hspace="20">
+  <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/4.png" height="450" hspace="10">
   <img src="https://github.com/tungxd96/CocoBot-Mobile-Capstone-2020/blob/master/images-readme/progress/5.png" height="450">
 </p>
 
